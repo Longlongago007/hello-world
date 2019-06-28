@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans！
+
+Longlongago007 here,
